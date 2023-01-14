@@ -1,6 +1,6 @@
 # Pranita-Dane_Portfolio
 
-## #Project Statement/Opportunity = 
+## Project Statement/Opportunity = 
 
  - Creating a personal profile for promoting ourselves will increase our opportunities to be selected in the job sector. 
 
@@ -19,5 +19,5 @@
 
 # **🔗 Deployed Link**
 
-## _This project is deployed on Github here - [My Portfolio ](https://geetamakadi123.github.io/)_
+## _This project is deployed on Github here - [My Portfolio ](https://pranita28dane.github.io/Pranita-Dane_Portfolio/)_
 
