@@ -900,9 +900,9 @@ section#ProjectPage {
 
 
 
-/* Education Page */
+/* Experience Page */
 
-#experiancePage .box-container {
+#experiencePage .box-container {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -928,7 +928,7 @@ section#ProjectPage {
 
 }
 
-#experiancePage .box-container .box2 {
+#experiencePage .box-container .box2 {
 
 
     width: 65rem;
@@ -939,14 +939,14 @@ section#ProjectPage {
 
 }
 
-#experiancePage .box-container .box2 span:hover {
+#experiencePage .box-container .box2 span:hover {
     color: var(--primary);
     background: var(--dark);
     border: 5px solid var(--primary);
 }
 
 
-#experiancePage .box-container .box2 span {
+#experiencePage .box-container .box2 span {
 
     font-size: 1.3rem;
     background: var(--primary);
@@ -957,7 +957,7 @@ section#ProjectPage {
 
 }
 
-#experiancePage .box-container .box2 h3 {
+#experiencePage .box-container .box2 h3 {
     font-size: 1.5rem;
     color: var(--primary);
     font-weight: 600;
@@ -966,7 +966,7 @@ section#ProjectPage {
 
 }
 
-#experiancePage .box-container .box2 p {
+#experiencePage .box-container .box2 p {
 
     font-size: 1.0rem;
     color: var(--light);
