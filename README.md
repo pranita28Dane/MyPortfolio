@@ -19,5 +19,5 @@
 
 # **🔗 Deployed Link**
 
-## _This project is deployed on Github here - [My Portfolio ](https://pranita28dane.github.io/Pranita-Dane_Portfolio/)_
+## _This project is deployed on Github here - [My Portfolio ](https://pranita28dane.github.io/MyPortfolio/#experiencePage)_
 
